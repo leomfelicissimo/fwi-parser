@@ -1,0 +1,30 @@
+{
+  "name": "fwi-parse",
+  "version": "1.0.0",
+  "description": "Parse your fixed-width text files data to JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomfelicissimo/fwi-parser.git"
+  },
+  "keywords": [
+    "Text",
+    "Files",
+    "CSV",
+    "Fixed-Width",
+    "Import",
+    "Parse"
+  ],
+  "author": "Leonardo Felicissimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomfelicissimo/fwi-parser/issues"
+  },
+  "homepage": "https://github.com/leomfelicissimo/fwi-parser#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
