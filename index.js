@@ -28,7 +28,6 @@ const parseRowsLayout = (fileRows, filter, layoutDescriptors) => {
       if (parsed) result.push(parsed);
       return result;
     }, []);
-    console.log(results);
 
   return results;
 }
@@ -73,4 +72,3 @@ exports.LayoutFileParse = (options = {
     }
   }
 }
-
